@@ -13,7 +13,6 @@
 - 🎓 M.Sc. Mathematics graduate with a strong quantitative foundation
 - 📊 Data Analyst skilled in turning raw data into decision-ready dashboards and insights
 - 🛠️ Comfortable across the full analytics stack — Python, SQL, Power BI, and Advanced Excel
-- 🤖 Solid grounding in statistics and machine learning (regression, classification, model evaluation)
 - 📍 Based in Etawah, Uttar Pradesh, India
 - 💼 Actively looking for opportunities as a **Data Analyst**
 
@@ -23,7 +22,6 @@
 
 **Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
@@ -33,9 +31,6 @@
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-**Machine Learning & Statistics**
-`Linear/Ridge/Lasso/Elastic Net Regression` `Logistic Regression` `SVM` `Naive Bayes` `KNN` `Decision Tree/Random Forest` `Model Evaluation (Accuracy, Precision, Recall, F1, RMSE, MAE, R²)` `Bias-Variance Trade-off`
 
 ---
 
