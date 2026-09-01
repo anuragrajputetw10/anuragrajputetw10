@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Anurag 👋</h1>
-<h3 align="center">Data Analyst | Python • SQL • Power BI • Machine Learning</h3>
+<h3 align="center">Data Analyst | Python • SQL • Power BI • Excel</h3>
 
 <p align="center">
   <a href="mailto:anuragrajputetw@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
