@@ -79,7 +79,10 @@ Performed quality checks on mobile devices, analyzed defect data to identify rec
 </p>
 
 </p>
-
+- ***🔥 GitHub Streak***
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragrajputetw10&theme=tokyonight&hide_border=true" /> </p>
 </p>
 
-<p align="center"><i>📫 Reach me at anuragrajputetw@gmail.com</i></p>
+- ***🤝 Let's Connect***
+<p> <a href="mailto:anuragrajputetw@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/anurag-rajput-751aa81b7/)"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <i>“Turning data into insights, and insights into decisions.”</i> </p>
