@@ -41,11 +41,11 @@ An interactive Power BI dashboard designed to analyze mobile sales performance.
 
 Key Areas:
 
--Sales performance analysis
--Brand and model comparison
--Regional performance
--Customer trends
--Interactive KPIs and visualizations
+- Sales performance analysis
+- Brand and model comparison
+- Regional performance
+- Customer trends
+- Interactive KPIs and visualizations
 
 Tools: Power BI • Excel 
 
