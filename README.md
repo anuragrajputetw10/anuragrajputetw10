@@ -41,11 +41,11 @@ An interactive Power BI dashboard designed to analyze mobile sales performance.
 
 Key Areas:
 
-Sales performance analysis
-Brand and model comparison
-Regional performance
-Customer trends
-Interactive KPIs and visualizations
+-Sales performance analysis
+-Brand and model comparison
+-Regional performance
+-Customer trends
+-Interactive KPIs and visualizations
 
 Tools: Power BI • Excel 
 
@@ -54,11 +54,11 @@ A Power BI dashboard analyzing hospital emergency room data to identify importan
 
 Key Areas:
 
-Patient volume analysis
-Admission and wait-time analysis
-Department-level insights
-Patient demographics
-Performance KPIs
+-Patient volume analysis
+-Admission and wait-time analysis
+-Department-level insights
+-Patient demographics
+-Performance KPIs
 
 Tools: Power BI • Excel • Data Analysis
 
@@ -67,11 +67,11 @@ An interactive dashboard focused on understanding employee data and HR performan
 
 Key Areas:
 
-Employee demographics
-Attrition analysis 
-Department performance 
-Job-role analysis 
-Workforce trends 
+-Employee demographics
+-Attrition analysis 
+-Department performance 
+-Job-role analysis 
+-Workforce trends 
  
 Tools: Power BI • Excel • Data Visualization
 
@@ -80,13 +80,13 @@ A SQL-based data analysis project focused on ride-booking performance and custom
 
 Key Analysis:
 
-Successful bookings
-Cancelled rides
-Incomplete rides
-Ride distance analysis
-Customer and driver ratings
-Top customers
-Booking trends
+-Successful bookings
+-Cancelled rides
+-Incomplete rides
+-Ride distance analysis
+-Customer and driver ratings
+-Top customers
+-Booking trends
 
 Tools: MySQL • SQL • Data Analysis
 
@@ -95,12 +95,12 @@ Exploratory data analysis of Diwali sales data to identify customer purchasing p
 
 Key Analysis:
 
-Customer demographics
-Product categories
-State-wise sales
-Occupation-based purchasing behavior
-Gender and age-group analysis
-High-value customer segments
+-Customer demographics
+-Product categories
+-State-wise sales
+-Occupation-based purchasing behavior
+-Gender and age-group analysis
+-High-value customer segments
 
 Tools: Python • Pandas • NumPy • Matplotlib • Seaborn
 
