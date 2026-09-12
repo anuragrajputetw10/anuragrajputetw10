@@ -68,11 +68,11 @@ An interactive dashboard focused on understanding employee data and HR performan
 Key Areas:
 
 Employee demographics
-Attrition analysis
-Department performance
-Job-role analysis
-Workforce trends
-
+Attrition analysis 
+Department performance 
+Job-role analysis 
+Workforce trends 
+ 
 Tools: Power BI • Excel • Data Visualization
 
 #### 🚕 [Ola Ride Bookings Analysis](https://github.com/anuragrajputetw10/Ola-booking-report)
