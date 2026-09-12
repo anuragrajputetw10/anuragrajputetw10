@@ -95,12 +95,12 @@ Exploratory data analysis of Diwali sales data to identify customer purchasing p
 
 Key Analysis:
 
--Customer demographics
--Product categories
--State-wise sales
--Occupation-based purchasing behavior
--Gender and age-group analysis
--High-value customer segments
+-Customer demographics 
+-Product categories 
+-State-wise sales 
+-Occupation-based purchasing behavior 
+-Gender and age-group analysis 
+-High-value customer segments 
 
 Tools: Python • Pandas • NumPy • Matplotlib • Seaborn
 
