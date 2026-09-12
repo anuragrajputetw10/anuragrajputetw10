@@ -40,15 +40,15 @@
 `Power BI`
 Interactive dashboard analyzing ₹769M+ in mobile sales across 19,150 units and 3,835 transactions — with KPI cards, a city-wise sales map, and filters for brand, model, and payment method. Tracks monthly trends, payment-method mix, and top-selling models (iPhone SE, OnePlus Nord, Galaxy Note).
 
-#### 🏥 [Hospital Emergency Room Dashboard](https://github.com/anuragrajputetw10/hospital-er-dashboard)
+#### 🏥 [Hospital Emergency Room Dashboard](https://github.com/anuragrajputetw10/Hospital-ER-Dashboard)
 `Microsoft Excel`
 Cleaned raw hospital ER data and built a monthly reporting dashboard tracking patient volume, average wait time, satisfaction score, and admission rate (57% on-time vs. 43% delay), with year-over-year (2023 vs. 2024) comparisons.
 
-#### 👥 [HR Analytics Dashboard](https://github.com/anuragrajputetw10/hr-analytics-dashboard)
+#### 👥 [HR Analytics Dashboard](https://github.com/anuragrajputetw10/HR-Analytics)
 `Power BI`
 Dashboard covering 1,407 employees across HR, R&D, and Sales — tracking a 16.0% attrition rate and breaking it down by education field, age group, salary band, job role, and gender to flag retention risk.
 
-#### 🚕 [Ola Ride Bookings Analysis](https://github.com/anuragrajputetw10/ola-ride-bookings-sql)
+#### 🚕 [Ola Ride Bookings Analysis](https://github.com/anuragrajputetw10/Ola-booking-report)
 `SQL (MySQL)`
 10+ business-driven SQL queries and views on ride-booking data — successful bookings, cancellations (customer vs. driver), incomplete-ride reasons, average ride distance/rating by vehicle type, and top 5 customers by value.
 
@@ -79,7 +79,7 @@ Performed quality checks on mobile devices, analyzed defect data to identify rec
 </p>
 
 </p>
-- ***🔥 GitHub Streak***
+🔥 GitHub Streak
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragrajputetw10&theme=tokyonight&hide_border=true" /> </p>
 </p>
 
