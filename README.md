@@ -47,7 +47,7 @@ Key Areas:
 - Customer trends
 - Interactive KPIs and visualizations
 
-Tools: Power BI • Excel 
+**Tools:** Power BI • Excel 
 
 #### 🏥 [Hospital Emergency Room Dashboard](https://github.com/anuragrajputetw10/Hospital-ER-Dashboard)
 A Power BI dashboard analyzing hospital emergency room data to identify important operational and patient trends.
@@ -60,7 +60,7 @@ Key Areas:
 - Patient demographics
 - Performance KPIs
 
-Tools: Power BI • Excel • Data Analysis
+**Tools:** Power BI • Excel • Data Analysis
 
 #### 👥 [HR Analytics Dashboard](https://github.com/anuragrajputetw10/HR-Analytics)
 An interactive dashboard focused on understanding employee data and HR performance.
@@ -73,7 +73,7 @@ Key Areas:
 - Job-role analysis 
 - Workforce trends 
  
-Tools: Power BI • Excel • Data Visualization
+**Tools:** Power BI • Excel • Data Visualization
 
 #### 🚕 [Ola Ride Bookings Analysis](https://github.com/anuragrajputetw10/Ola-booking-report)
 A SQL-based data analysis project focused on ride-booking performance and customer behavior.
@@ -88,7 +88,7 @@ Key Analysis:
 - Top customers
 - Booking trends
 
-Tools: MySQL • SQL • Data Analysis
+**Tools:** MySQL • SQL • Data Analysis
 
 #### 🪔 [Diwali Sales - Exploratory Data Analysis](https://github.com/anuragrajputetw10/diwali-sales-eda)
 Exploratory data analysis of Diwali sales data to identify customer purchasing patterns and sales trends.
@@ -102,7 +102,7 @@ Key Analysis:
 - Gender and age-group analysis 
 - High-value customer segments 
 
-Tools: Python • Pandas • NumPy • Matplotlib • Seaborn
+**Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn
 
 ---
 
