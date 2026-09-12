@@ -74,7 +74,10 @@ Performed quality checks on mobile devices, analyzed defect data to identify rec
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragrajputetw10&show_icons=true&theme=default" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragrajputetw10&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragrajputetw10&layout=compact&theme=tokyonight" height="180" />
+</p>
+
 </p>
 
 <p align="center"><i>📫 Reach me at anuragrajputetw@gmail.com</i></p>
