@@ -104,7 +104,7 @@ Key Analysis:
 
 **Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn
 
-### 📊 Customer Retention & Cohort Analysis
+### 📊 [Customer Retention & Cohort Analysis](https://github.com/anuragrajputetw10/Customer_Retention_and_Cohort_Analysis)
 
 End-to-end **Data Analytics project** using Python, SQL, and Power BI to analyze :- 
 - Customer behavior
