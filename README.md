@@ -104,6 +104,17 @@ Key Analysis:
 
 **Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn
 
+### 📊 Customer Retention & Cohort Analysis
+
+End-to-end **Data Analytics project** using Python, SQL, and Power BI to analyze :- 
+- Customer behavior
+- Retention
+- Cohort performance
+- RFM-based customer segments
+- Developed actionable insights to identify **high-value customers, retention patterns, and revenue opportunities**.
+
+**Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn • MySQL • Power BI
+
 ---
 
 ### 💼 Experience
